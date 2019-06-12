@@ -1,0 +1,12 @@
+{
+    "data_root_path":"C:/Users/orson/Desktop/Myself/HCI/UWiSchool/Projects/LongitudinalModeling/LongitudinalDataSet/",
+    "epis" : ["mo", "af", "ev", "ni"],
+    "wks" : ["wkdy","wkend"],
+    "epis_long_to_short" : {
+        "morning":"mo",
+        "afternoon":"af",
+        "evening":"ev",
+        "night":"ni"
+    }
+
+}
